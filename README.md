@@ -71,7 +71,7 @@ the last step is to run the command
 Important contact Email [**Outlook**](http://d_q16x@outlook.co.id)
 
 # License
-Sholatkuy tool is an coded encrypt license [`GPL v3.0`](https://raw.githubusercontent.com/hoxage/Torattacker/master/LICENSE) © Github 2020
+Torattacker tool is an open source encrypt license [`GPL v3.0`](https://raw.githubusercontent.com/hoxage/Torattacker/master/LICENSE) © Github 2020
 
 ### LiberaPay:
 <noscript><a href="https://liberapay.com/hoxage/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
