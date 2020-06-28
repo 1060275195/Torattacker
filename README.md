@@ -11,7 +11,7 @@
 <p align="center">
   <sub><b>Demo</sub></b>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hoxage/Torattacker/master/Screenshot.png"" width="300">
+  <img src="https://raw.githubusercontent.com/hoxage/Torattacker/master/Screenshot.png" width="300">
 </p>
 <h5>
 <p align="center">
